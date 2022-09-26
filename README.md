@@ -1,5 +1,5 @@
-# Said
-echo "# Said" >> README.md 
+# Blocnot
+echo "# Blocnot" >> README.md 
 git init 
 git add README.md 
 git commit -m "second commit" 
